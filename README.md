@@ -324,6 +324,10 @@ ON [Fact].[Purchase].[Date Key]=[Fact].[Transaction].[Date Key]
 
 GROUP BY [Tax Amount]
 
+![](SQLSeries20.png)
+
+
+
 
 ## HAVING STATEMENT
 
