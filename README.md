@@ -244,6 +244,10 @@ WHERE [Salesperson Key] = 19
 
 AND [WWI Order ID] = 4
 
+![](SQLSeries15.png)
+
+
+
 ## JOIN
 
 A join clause in the Structured Query Language (SQL) combines columns from one or more tables into a new table. 
