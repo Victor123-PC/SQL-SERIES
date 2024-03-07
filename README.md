@@ -137,6 +137,11 @@ ALTER TABLE [dbo].[Student_Information]
 
 DROP COLUMN Location
 
+### view of the column deleted
+
+![](SQLSeries8.png)
+
+
 ## SELECT Statement:
 
 The SELECT statement retrieves data from one or more tables. You can select specific columns or use * to select all columns.
