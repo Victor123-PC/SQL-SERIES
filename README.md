@@ -345,6 +345,10 @@ GROUP BY OrderTotal
 
 HAVING OrderTotal <500
 
+![](SQLSeries21.png)
+
+
+
 
 ## SUBQUERIES
 
