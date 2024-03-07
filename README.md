@@ -127,6 +127,10 @@ ALTER TABLE [dbo].[Student_Information]
 
 ADD Location varchar(100)
 
+### view of another column added
+![](SQLSeries7.png)
+
+
 ## DELETING THE COLUMN (LOCATION) BECAUSE IT IS NOT NEEDED
 
 ALTER TABLE [dbo].[Student_Information]
