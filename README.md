@@ -30,6 +30,9 @@ Date_of_Birth      date
 
 )
 
+### Screenshoot of the SQL Syntax for creating Table
+![](SQLSeries1.png)
+
 ## POPULATING THE TABLE
 
 INSERT INTO [dbo].[Student_Information]
