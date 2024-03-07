@@ -169,6 +169,10 @@ FROM [Fact].[Order]
 
 ORDER BY [Tax Amount]
 
+![](SQLSeries11.png)
+
+
+
 ## Using the where clause to filter data 
 
 SELECT *
