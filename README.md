@@ -154,6 +154,11 @@ SELECT [City Key],[State Province],City,Continent
 
 FROM [Dimension].[City]
 
+### view of select statement
+
+![](SQLSeries9.png)
+
+
 ## USING ORDERBY TO SORT RECORDS ASCENDING OR DESCENDING
 
 SELECT [City Key],[Order Date Key], Quantity, [Unit Price], [Tax Amount]
