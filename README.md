@@ -389,6 +389,8 @@ JOIN [Dimension].[Customer]
  
  ON [Dimension].[Customer].[Customer Key]=[Fact].[Sale].[Customer Key]
 
+ ![](SQLSeries23.png)
+
 
 
 
