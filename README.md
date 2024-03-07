@@ -158,6 +158,8 @@ FROM [Dimension].[City]
 
 ![](SQLSeries9.png)
 
+![](SQLSeries10.png)
+
 
 ## USING ORDERBY TO SORT RECORDS ASCENDING OR DESCENDING
 
