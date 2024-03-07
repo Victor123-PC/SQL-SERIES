@@ -203,6 +203,9 @@ FROM [Fact].[Order]
 
 WHERE [Order Date Key] <> '1/1/2013'
 
+![](SQLSeries12.png)
+
+
 ## ARITHMETIC OPERATIONS 
 
 SELECT SUM ([Tax Amount]) AS TOTAL_TAX
