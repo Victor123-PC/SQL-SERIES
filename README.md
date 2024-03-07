@@ -75,6 +75,7 @@ ADD Courses varchar(50)
 
 ![](SQLSeries4.png)
 
+
 ## UPDATING THE NEW COLUMN (COURSES) WITH INFORMATION
 
 UPDATE [dbo].[Student_Information]
@@ -102,6 +103,10 @@ WHEN StudentID_Number = '1008'THEN 'Full Stack'
 WHEN StudentID_Number = '10010'THEN 'Customer Success Manager'
 
 END
+
+### view of the new column updated
+![](SQLSeries5.png)
+
 
 ## UPDATING THE COURSE COLUMN THAT IS SHOWING NULL
 
