@@ -229,6 +229,9 @@ SELECT [WWI Backorder ID], Description, Quantity,
 
 FROM [Fact].[Order]
 
+![](SQLSeries14.png)
+
+
 ## Question involving And Operators
 
 ### Fetch all records from fact.order table where salesperson key 19 and WWI order ID is 4
