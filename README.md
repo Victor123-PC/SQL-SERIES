@@ -116,6 +116,11 @@ SET [dbo].[Student_Information].Courses = 'Database Administrator'
 
 WHERE [dbo].[Student_Information].State_of_Origin = 'Delta State'
 
+
+### view of the updated column showing Null
+![](SQLSeries6.png)
+
+
 ## ANOTHER COLUMN ADDEED CALL LOCATION
 
 ALTER TABLE [dbo].[Student_Information]
