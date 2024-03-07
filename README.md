@@ -71,6 +71,10 @@ ALTER TABLE [dbo].[Student_Information]
 
 ADD Courses varchar(50)
 
+### View of the new column added to the table
+
+![](SQLSeries4.png)
+
 ## UPDATING THE NEW COLUMN (COURSES) WITH INFORMATION
 
 UPDATE [dbo].[Student_Information]
