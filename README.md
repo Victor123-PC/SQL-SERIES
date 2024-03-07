@@ -275,6 +275,10 @@ JOIN [Fact].[Purchase]FP
 
 ON FP.[Date Key] = FS.[Delivery Date Key]
 
+![](SQLSeries16.png)
+
+
+
 ## RIGHT OUTER JOIN
 
 Right outer join returns all rows from the right table with corresponding rows from the left table. If there is no matching row, NULLS are returned as value from left table.
