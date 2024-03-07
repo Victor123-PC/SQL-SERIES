@@ -290,6 +290,10 @@ SELECT *
  
  ON [Fact].[Stock Holding].[Lineage Key]=[Dimension].[Customer].[Lineage Key]
 
+ ![](SQLSeries19.png)
+
+ 
+
  ## LEFT OUTER JOIN
 
  Left Outer join returns all rows from the left table with corresponding rows from the right table. If there is no matching row, NULLS are returned as value from the second table.
