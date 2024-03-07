@@ -301,6 +301,9 @@ SELECT *
  LEFT OUTER JOIN [Fact].[Stock Holding]
  
  ON [Fact].[Stock Holding].[Lineage Key]=[Dimension].[Customer].[Lineage Key]
+
+ ![](SQLSeries17.png)
+ 
  
 
 ## GROUP BY STATEMENT
