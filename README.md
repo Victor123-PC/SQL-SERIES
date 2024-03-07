@@ -61,6 +61,10 @@ VALUES(
 ### Screenshoot SQL Syntax for Populating the table
 ![](SQLSeries2.png)
 
+### View of the Table information
+
+![](SQLSeries3.png)
+
 ## ADDING NEW COLUMN TO THE TABLE
 
 ALTER TABLE [dbo].[Student_Information]
