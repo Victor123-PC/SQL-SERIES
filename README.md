@@ -362,6 +362,10 @@ WHERE CustomerID IN( SELECT CustomerID FROM [dbo].[Orders]
 
 WHERE OrderTotal <500)
 
+![](SQLSERIES22.png)
+
+
+
 
 ## CASE STATEMENT
 
